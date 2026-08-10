@@ -6,3 +6,5 @@ Generacion de pull request
 Contribucion desde local
 
 Cambios desde rama local "developer01"
+
+Generacion de cambio para pull request desde vscode
